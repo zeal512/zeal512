@@ -1,6 +1,5 @@
 ## Zeal Shah
-**Software Engineer** 
-ML enthusiast.
+**Software Engineer**  \|  ML enthusiast.
 ## 🙋‍♂️ About Me
 🚀 Innovator | 🧠 Problem Solver | ⚡ Quick Learner | 🤝 Leader<br><br>
 👨🏻‍💻 I'm a software engineer with over 4 years of hands-on experience designing and building backend systems for enterprise-level applications. My expertise lies in Java and Spring Boot, with a strong emphasis on microservices architecture and cloud-based solutions using AWS.
