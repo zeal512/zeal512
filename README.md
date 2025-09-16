@@ -58,6 +58,11 @@
 - 🌐 Full Stack Web Development
 - 🚀 Agile Methodologies
 - 🛠️ Software Development Life Cycle (SDLC)
+
+## 📊 My LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/<zealshah512>?theme=dark&font=Roboto&ext=contest)
+
+
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahzeal/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/zeal512/)  
