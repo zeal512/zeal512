@@ -60,7 +60,7 @@
 - 🛠️ Software Development Life Cycle (SDLC)
 
 ## 📊 My LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/<zealshah512>?theme=dark&font=Roboto&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/zealshah512)
 
 
 ## 🌐 Socials
