@@ -1,7 +1,7 @@
 ## Zeal Shah
 **Software Engineer**  \|  ML enthusiast.
 ## 🙋‍♂️ About Me
-🚀 Innovator | 🧠 Problem Solver | ⚡ Quick Learner | 🤝 Leader<br><br>
+🚀 Innovator | 🧠 Problem Solver | ⚡ Quick Learner | 🤝 Leader | ☕ Turning coffee into scalable solutions  <br><br>
 👨🏻‍💻 I'm a software engineer with over 4 years of hands-on experience designing and building backend systems for enterprise-level applications. My expertise lies in Java and Spring Boot, with a strong emphasis on microservices architecture and cloud-based solutions using AWS.
 
 💼 I’ve delivered high-impact projects at Tech Mahindra and Tata Consultancy Services, where I improved system performance, led authentication overhauls, and optimized backend processes for real-world scalability. I’ve also worked extensively with databases like OracleDB, MySQL, PostgreSQL, and NoSQL variants.
@@ -63,7 +63,11 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/zealshah512)
 
 
-## 🌐 Socials
+## 📬 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahzeal/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/zeal512/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/zealshah512/)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zealshah396@gmail.com)
+
+🚀 Always building, always learning  
+
